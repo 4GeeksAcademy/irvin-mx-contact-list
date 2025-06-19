@@ -1,0 +1,23 @@
+.contactBody{
+    min-height: 400px;
+}
+
+.trashIcon{
+    cursor: pointer;
+    transition: scale 0.2s ease-out;
+}
+.trashIcon:hover{
+    color: red;
+    scale: 1.5;
+}
+
+.updateIcon{
+    cursor: pointer;
+    margin-right: 70px;
+    transition: scale 0.2s ease-out;
+  
+}
+.updateIcon:hover{
+   color: greenyellow;
+   scale: 1.5;
+}
